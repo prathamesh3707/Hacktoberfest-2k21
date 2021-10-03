@@ -153,11 +153,11 @@
   color:black !important;
 } */
 
-.dark-mode .site-title a:hover {
+/*.dark-mode .site-title a:hover {
     -webkit-animation: neon3 1.5s ease-in-out infinite alternate;
     -moz-animation: neon3 1.5s ease-in-out infinite alternate;
     animation: neon3 1.5s ease-in-out infinite alternate;
-}
+}*/
 
 @keyframes neon3 {
     from {
